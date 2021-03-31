@@ -1,4 +1,7 @@
-# sales-insight-dashboard
+# Busiess Sales Insight Dashboard
+
+## Problem Statemant
+A product based company sales have declined recently, so the head of sales team wants you to build a dashboard which provides customer & product level sales insight to perform data driven-decision.
 
 ### This repo consists of demo casestudy based on tableau. 
 
