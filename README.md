@@ -11,7 +11,7 @@ A Delhi-based computer hardware manufacturing company AltiQ, sales have declined
 Before venturing into the project, the AIMS grid was used for planning and laying the foundation for successful implementation.
 
 <p align="center">
-<img src="C:\Users\RAJPRAVEEN\Desktop\Projects\Sales Insights\images\aims_grid.png">
+<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/aims_grid.PNG">
 </p>
 
 ### Data Engineering Cycle
@@ -19,7 +19,7 @@ Before venturing into the project, the AIMS grid was used for planning and layin
 Once the foundations where laid, the entire pipeline for dataflow was finalized ([read more](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)).
 
 <p align="center">
-<img src="C:\Users\RAJPRAVEEN\Desktop\Projects\Sales Insights\images\Data Lifecycle.png">
+<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/Data Lifecycle.png">
 </p>
 
 Usually, in such scenarios data from the data source such as OLTP are transformed using the ETL process before it gets loaded to a Data Warehouse, which is then connected to a BI tool to carry out the analysis.
@@ -27,19 +27,19 @@ Usually, in such scenarios data from the data source such as OLTP are transforme
 For our case study, we have used a Tableau for data analysis that has a live connection with a MySQL data source.
 
 <p align="center">
-<img src="C:\Users\RAJPRAVEEN\Desktop\Projects\Sales Insights\images\Sales_schema Chart.png">Database Schema
+<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/Sales_schema Chart.png">Database Schema
 </p>
 
 ### Analyzing data using MySQL
 
 <p align="center">
-<img src="C:\Users\RAJPRAVEEN\Desktop\Projects\Sales Insights\images\SQL Analysis.png">SQL Analysis
+<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/SQL Analysis.png">SQL Analysis
 </p>
 
 ### Creating Visualization using Tableau
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/dashboard_snap.PNG">
+<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/dashboard_snap.PNG">
 </p>
 
 ## Contacts
