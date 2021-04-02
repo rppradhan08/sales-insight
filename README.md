@@ -27,7 +27,7 @@ Usually, in such scenarios data from the data source such as OLTP are transforme
 For our case study, we have used a Tableau for data analysis that has a live connection with a MySQL data source.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/Sales_schema Chart.png">Database Schema
+<img src="https://raw.githubusercontent.com/rppradhan08/sales-insight/master/images/Sales_schema Chart.PNG">Database Schema
 </p>
 
 ### Analyzing data using MySQL
